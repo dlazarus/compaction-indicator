@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0-only
+// SPDX-FileCopyrightText: 2026 dlazarus
 /**
  * Apolo — contador de compactaciones en la barra inferior
  *

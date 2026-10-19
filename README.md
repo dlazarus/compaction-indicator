@@ -82,4 +82,8 @@ compaction-indicator/
 
 ## Licencia
 
-Uso libre. Sin garantías.
+AGPL-3.0-only — Copyright (C) 2026 dlazarus.
+
+Este programa es software libre: puede redistribuirlo y/o modificarlo bajo los términos de la [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html) publicada por la Free Software Foundation (versión 3).
+
+Se distribuye sin garantía de ningún tipo. Los trabajos derivados que se expongan a usuarios por una red deben publicar también su código fuente.
