@@ -1,5 +1,8 @@
 # compaction-indicator
 
+> [!NOTE]
+> **Nota del autor:** no sé programar. Este proyecto está hecho íntegramente con *vibe coding* (lo escriben agentes de IA bajo mi dirección y yo lo pruebo). También soy novato total en GitHub: tenlo en cuenta al leer el código, y si abres un issue o un pull request y tardo en responder (o no sé qué hacer con él), no es desidia — es que literalmente estoy aprendiendo a usar GitHub. Aun así, mi intención es compartir: como amante del software libre, quiero que cualquiera pueda usarlo, clonarlo y probarlo aunque su autor sea un novato.
+
 Extensión para [pi](https://github.com/badlogic/pi-mono) (`@earendil-works/pi-coding-agent`) que añade un **contador de compactaciones** al footer de la TUI y alinea los estados de las extensiones en la tercera línea.
 
 ## Qué hace
